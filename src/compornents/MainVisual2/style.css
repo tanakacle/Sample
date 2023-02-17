@@ -1,0 +1,97 @@
+.mainwork {
+  /* background-color: aquamarine; */
+  width: 964px;
+  height: 482px;
+}
+.mainwork {
+  position: absolute;
+  left: 478px;
+  top: 1540px;
+}
+.mainwork img {
+  position: absolute;
+  width: 482px;
+  height: 482px;
+  left: 482px;
+}
+.textclass2 {
+  position: absolute;
+  /* background-color: aqua; */
+  width: 482px;
+  height: 166px;
+  right: 482px;
+  top: 158px;
+}
+.mainwork h1 {
+  font-family: 'Crimson Text', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 31px;
+  display: flex;
+  align-items: center;
+  color: #2d2d2d;
+}
+.mainwork h1 {
+  /* background-color: antiquewhite; */
+  position: absolute;
+  width: 312px;
+  height: 31px;
+  left: 67.47px;
+  top: 1px;
+}
+.mainwork h2 {
+  font-family: 'Crimson Text', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  color: #2d2d2d;
+}
+.mainwork h2 {
+  /* background-color: aquamarine; */
+  position: absolute;
+  width: 37px;
+  height: 21px;
+  left: 67.47px;
+  top: 36px;
+}
+.mainwork h3 {
+  font-family: 'Crimson Text', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  color: #2d2d2d;
+}
+.mainwork h3 {
+  /* background-color: azure; */
+  position: absolute;
+  width: 344.88px;
+  height: 42px;
+  left: 67.47px;
+  top: 82px;
+}
+.mainwork h4 {
+  font-family: 'Crimson Text', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+
+  color: #2d2d2d;
+}
+.mainwork h4 {
+  /* background-color: azure; */
+  position: absolute;
+  width: 344.88px;
+  height: 42px;
+  left: 67.47px;
+  top: 124px;
+}

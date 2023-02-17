@@ -1,0 +1,89 @@
+.main {
+  position: absolute;
+  left: 478px;
+  top: 998.8px;
+}
+
+.textclass {
+  position: absolute;
+  width: 482px;
+  height: 166px;
+  /* background-color: aqua; */
+  left: 482px;
+  top: 158px;
+}
+.textclass h1 {
+  font-family: 'Crimson Text', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 31px;
+  display: flex;
+  align-items: center;
+  color: #2d2d2d;
+}
+.textclass h1 {
+  position: absolute;
+  /* background-color: blue; */
+  width: 334px;
+  height: 31px;
+  left: 67.47px;
+}
+.textclass h2 {
+  font-family: 'Crimson Text', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  color: #2d2d2d;
+}
+.textclass h2 {
+  /* background-color: blueviolet; */
+  width: 53px;
+  height: 21px;
+  position: absolute;
+  top: 36px;
+  left: 67.47px;
+  right: 361.61px;
+  bottom: 109px;
+}
+.textclass h3 {
+  font-family: 'Crimson Text', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+
+  color: #2d2d2d;
+}
+.textclass h3 {
+  /* background-color: cadetblue; */
+  width: 334.08px;
+  height: 42px;
+  position: absolute;
+  top: 82px;
+  left: 67.47px;
+}
+.textclass h4 {
+  font-family: 'Crimson Text', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+
+  color: #2d2d2d;
+}
+.textclass h4 {
+  /* background-color: black; */
+  width: 334.08px;
+  height: 42px;
+  position: absolute;
+  top: 124px;
+  left: 67.47px;
+}

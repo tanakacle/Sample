@@ -1,0 +1,49 @@
+.headerlogo img {
+  position: absolute;
+  max-width: 1728px;
+  height: 810px;
+  left: 96px;
+  bottom: 1254px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo {
+  position: absolute;
+  width: 1730px;
+  height: 82px;
+  left: 96px;
+  top: 886.8px;
+  margin-top: 33.3px;
+}
+.logo img {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  /* padding: 0px 0.0334811px 0px 0.0334821px; */
+  position: absolute;
+}
+.menu {
+  margin-left: 158px;
+}
+.menu a {
+  text-decoration: none;
+  font-family: 'Crimson Text', serif;
+  color: #2d2d2d;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+}
+.logo ul {
+  list-style: none;
+  display: flex;
+  position: absolute;
+  width: 181.5px;
+  height: 18px;
+  align-items: center;
+  /* left: 160px; */
+}
+.logo ul li {
+  margin-left: 29px;
+  font-family: rgb(238, 189, 199) Text;
+}

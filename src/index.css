@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+
+html {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  /* padding: 76.7969px 0px 0px; */
+
+  position: relative;
+  /* width: 1920px; */
+  height: 2140.8px;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
